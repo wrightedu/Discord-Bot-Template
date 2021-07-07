@@ -17,4 +17,4 @@ The token can be found at the [developer page](https://discord.com/developers/ap
 
 ## Initializing
 
-Once you've got the `.env` file made and in the same directory as `bot.py`, starting up the bot is as simple as running `python3 bot.py`. Startup should take around 30-150 seconds.
+Once you've got the `.env` file made and in the same directory as `bot.py`, starting up the bot is as simple as running `python3 bot.py`.
